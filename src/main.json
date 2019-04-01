@@ -1,0 +1,16 @@
+{
+    "pages": [
+        "pages/index/main",
+        "pages/map/main",
+        "pages/personal/main",
+        "pages/vehicleFailure/main",
+        "pages/bluetooth/main",
+        "pages/card/main"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "mobai",
+        "navigationBarTextStyle": "black"
+    }
+}
